@@ -2,6 +2,10 @@
 logs
 *.log
 
+# Editor specific backup files
+*.bak
+*~
+
 # Runtime data
 pids
 *.pid

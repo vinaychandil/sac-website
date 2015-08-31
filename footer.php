@@ -44,7 +44,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 	  <br><br>
 	  Comments:<br><textarea name="comments" rows="5" cols="40" placeholder="Comment here..."></textarea>
 	  <br><br>
-	  <input type="submit" name="submit" value="submit">
+	  <input type="submit" style="color:#152737" name="submit" value="submit">
 	  </form>
 	  
 	  

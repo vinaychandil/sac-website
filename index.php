@@ -14,18 +14,16 @@
         
 		<div id="big_wrapper">
 		
-		<div id="wrapper">
 			<img src="http://placehold.it/100x100" alt="logo" style="float:left" />
 			<h1 >STUDENTS' ALUMNI CELL</h1>
 			
-		</div>
 		<br>
+		<center>
 <?php include 'navbar.php' ; ?>
+ </center>
  <br>
- <br>
-    <?php include 'slider.php' ?> 
 
-	 <br>
+<?php include 'slider.php' ?> 
 	 <br>
 <div class="container" >
       <div class="row" >
@@ -53,7 +51,6 @@
    </div>
   </div>
 </div>
-<br>
 <div class="container" >
 	<div class="row">
 	<div  class="col-sm-3" id="verticalLine">
@@ -89,7 +86,6 @@
    </div>
 </div>
 </div>
-<br><br>
 
 <?php include 'footer.php'; ?>
 </div>

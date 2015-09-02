@@ -2,12 +2,14 @@
 
 #sliderFrame, #sliderFrame div {
     box-sizing: content-box;
+		
 }
 #sliderFrame 
 {
     position:relative;
     width:700px;
 		padding:0px;
+		
 }
 
 #slider, #slider div.sliderInner {
